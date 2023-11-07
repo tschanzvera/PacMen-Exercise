@@ -16,7 +16,7 @@ NOTE
 
 This was a little project that I had in my MITxPRO course.  
 
-You can see it at https://tschanzvera.github.io/pacMen-Exercise/
+You can see it at https://tschanzvera.github.io/pacMen-Exercise/starter.html
 
 
 
