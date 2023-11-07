@@ -7,3 +7,17 @@ You also need to make each pacman bounce off any wall it hits.
 Start by getting at least one pacman positioned and viewable. 
 
 <img src="PacMan1.png">
+
+
+
+
+##
+NOTE
+
+This was a little project that I had in my MITxPRO course.  
+
+You can see it at https://tschanzvera.github.io/pacMen-Exercise/
+
+
+
+If you have any questions about this exercise contact me at www.linkedin.com/in/vera-tschanz-500258a2
