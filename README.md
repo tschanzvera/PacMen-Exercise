@@ -1,4 +1,7 @@
-# pacmen
+# Pacmen
+
+## Description
+
 Factory for making pacmen
 You are given a starter.html code.
 When button "make one" is pressed you need to complete the code 
@@ -18,6 +21,10 @@ This was a little project that I had in my MITxPRO course.
 
 You can see it at https://tschanzvera.github.io/PacMen-Exercise/starter.html
 
+## How to run
 
+Load the url in your browser, click the button make one to make a pacman, and the button start game to make it move
+
+## Support
 
 If you have any questions about this exercise contact me at www.linkedin.com/in/vera-tschanz-500258a2
