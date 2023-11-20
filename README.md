@@ -28,3 +28,7 @@ Load the url in your browser, click the button " Add PacMan" to make a pacman, a
 ## Support
 
 If you have any questions about this exercise contact me at www.linkedin.com/in/vera-tschanz-500258a2
+
+## License
+
+MIT license
