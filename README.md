@@ -25,6 +25,10 @@ You can see it at https://tschanzvera.github.io/PacMen-Exercise/starter.html
 
 Load the url in your browser, click the button " Add PacMan" to make a pacman, and the button "start game" to make it move
 
+## Roadmap of future improvements 
+
+It would be fun if the PacMen would change color when they hit the wall
+
 ## Support
 
 If you have any questions about this exercise contact me at www.linkedin.com/in/vera-tschanz-500258a2
