@@ -23,7 +23,7 @@ You can see it at https://tschanzvera.github.io/PacMen-Exercise/starter.html
 
 ## How to run
 
-Load the url in your browser, click the button make one to make a pacman, and the button start game to make it move
+Load the url in your browser, click the button " Add PacMan" to make a pacman, and the button "start game" to make it move
 
 ## Support
 
