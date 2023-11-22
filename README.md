@@ -27,7 +27,7 @@ Load the url in your browser, click the button " Add PacMan" to make a pacman, a
 
 ## Roadmap of future improvements 
 
-It would be fun if the PacMen would change color when they hit the wall
+I would like to make the PacMen change color everytime they hit the wall.
 
 ## Support
 
