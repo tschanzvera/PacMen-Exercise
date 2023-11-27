@@ -19,7 +19,7 @@ NOTE
 
 This was a little project that I had in my MITxPRO course.  
 
-You can see it at https://tschanzvera.github.io/PacMen-Exercise/starter.html
+You can see it at https://tschanzvera.github.io/PacMen-Exercise/index.html
 
 ## How to run
 
