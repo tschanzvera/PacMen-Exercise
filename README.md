@@ -1,4 +1,4 @@
-# PacMen-Exercise
+# PacMen Exercise
 
 ## Description
 
