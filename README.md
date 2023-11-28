@@ -16,7 +16,7 @@ I also needed to make each pacman bounce off any wall it hits. I made the pacMen
 
 
 ##
-NOTE
+NOTE:
 
 This was a little project that I had in my MITxPRO course.  
 
